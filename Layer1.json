@@ -367,10 +367,9 @@
       "verbose": "Left Control"
     },
     {
-      "keyCode": 228,
-      "label": "CTRL",
-      "extraLabel": "RIGHT",
-      "verbose": "Right Control"
+      "keyCode": 17451,
+      "label": "2",
+      "extraLabel": "SWITCH"
     },
     {
       "keyCode": 231,
@@ -378,9 +377,8 @@
       "verbose": "Right Windows"
     },
     {
-      "keyCode": 51518,
-      "label": "SPACE",
-      "extraLabel": "L#2/"
+      "keyCode": 44,
+      "label": "SPACE"
     },
     {
       "keyCode": 49757,
@@ -399,9 +397,10 @@
       "verbose": "Right Windows"
     },
     {
-      "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LED"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 228,
@@ -473,7 +472,7 @@
     0,
     0,
     2,
-    0,
+    7,
     3,
     4,
     4,
